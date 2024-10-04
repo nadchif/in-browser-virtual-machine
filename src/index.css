@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'ModernDOS';
+	src: url('./assets/fonts/ModernDOS/ModernDOS8x16.ttf') format('truetype');
+}
+
+#screen_container {
+	white-space: pre;
+	font-family:  'ModernDOS', Courier, monospace;
+	font-size: 14px;
+	line-height: 14px;
+	background-color: #000;
+	color:#fff;
+}
