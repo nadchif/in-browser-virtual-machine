@@ -1,8 +1,12 @@
-# Run FreeDOS 1.2 in your browser
+# Run Alpine Linux 3.20 in your browser
 
-_To run [Alpine Linux](https://alpinelinux.org/) 3.20 instead, check [this branch](https://github.com/nadchif/in-browser-virtual-machine/tree/boot-linux)_
+_To run [FreeDOS](https://alpinelinux.org/) 1.2 instead, check [this branch](https://github.com/nadchif/in-browser-virtual-machine/tree/main)_
 
-https://github.com/user-attachments/assets/77dc948a-7fde-464a-ad94-b5f318627fa7
+
+
+https://github.com/user-attachments/assets/13672e7a-8e44-47ce-a4af-1b52d365bd9c
+
+
 
 ## Running locally
 
