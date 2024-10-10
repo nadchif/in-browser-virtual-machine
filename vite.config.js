@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     open: true,
-  }
+  },
+  base: "/in-browser-virtual-machine/"
 })
