@@ -11,6 +11,7 @@
     "postinstall": "node download-alpine.cjs"
   },
   "dependencies": {
+    "@xterm/xterm": "^5.5.0",
     "node-fetch": "^2.7.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
